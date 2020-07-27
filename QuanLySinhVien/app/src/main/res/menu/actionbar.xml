@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item android:id="@+id/idTRangChu"
+            android:title="Trang Chủ"
+            app:showAsAction="never"
+            />
+    <item android:id="@+id/idDKHoc"
+        android:title="Đăng Ký Học"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/idQuanLy"
+        android:title="Quản Lý Lớp"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/idTimKiem"
+    android:title="Tìm Sinh Viên"
+    app:showAsAction="never"
+    />
+</menu>
